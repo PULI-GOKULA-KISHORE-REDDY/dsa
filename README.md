@@ -1,6 +1,6 @@
 # dsa
 
-```js
+```
  class Solution {
   public static int divide(int A, int B) {
       /* write your solution here */
