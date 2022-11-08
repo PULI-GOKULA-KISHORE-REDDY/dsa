@@ -1,7 +1,7 @@
 # dsa
 
 ## Table of Contents
-## Bit Manipulation
+` Bit Manipulation`
 - [Division](#division)
 
 ## Division
