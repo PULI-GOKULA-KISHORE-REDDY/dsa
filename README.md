@@ -1,8 +1,11 @@
 # dsa
 
-```
+
+## Division using bit manipulation
+
+```js
  class Solution {
-  public static int divide(int A, int B) {
+  public static int divide(int A, int B) {      //   A/B
       /* write your solution here */
       boolean sign=(A>=0 == B>=0)? true:false;
       A=Math.abs(A);
@@ -17,7 +20,6 @@
           }
           result+=1<<count;
           A-=B<<count;
-          //System.out.println(A+"-"+B+" result-"+result);
       }
       return sign? result:-result;
   }
