@@ -1,9 +1,9 @@
 # dsa
 
 ## Table of Contents
-- [Division](#Division using bit manipulation)
+- [Division](#division)
 
-## Division using bit manipulation
+## Division
 
 ```js
  class Solution {
