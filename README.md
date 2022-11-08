@@ -1,7 +1,7 @@
 # dsa
 
-
-> class Solution {
+```js
+ class Solution {
   public static int divide(int A, int B) {
       /* write your solution here */
       boolean sign=(A>=0 == B>=0)? true:false;
@@ -22,3 +22,4 @@
       return sign? result:-result;
   }
 }
+```
