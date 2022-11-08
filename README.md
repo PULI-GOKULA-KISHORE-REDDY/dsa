@@ -1,7 +1,7 @@
 # dsa
 
 
-class Solution {
+> class Solution {
   public static int divide(int A, int B) {
       /* write your solution here */
       boolean sign=(A>=0 == B>=0)? true:false;
